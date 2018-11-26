@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "보통"; ObjectID = "4xd-8I-kY0"; */
+"4xd-8I-kY0.text" = "보통";
+
+/* Class = "UILabel"; text = "좋음"; ObjectID = "HW7-Qy-Dfb"; */
+"HW7-Qy-Dfb.text" = "좋음";
+
+/* Class = "UILabel"; text = "나쁨"; ObjectID = "URP-n0-ckD"; */
+"URP-n0-ckD.text" = "나쁨";
+
+/* Class = "UILabel"; text = "매우                             나쁨"; ObjectID = "vkw-aP-HIE"; */
+"vkw-aP-HIE.text" = "매우                             나쁨";
+
+/* Class = "UISegmentedControl"; vvS-Hl-hhe.segmentTitles[0] = "PM10"; ObjectID = "vvS-Hl-hhe"; */
+"vvS-Hl-hhe.segmentTitles[0]" = "PM10";
+
+/* Class = "UISegmentedControl"; vvS-Hl-hhe.segmentTitles[1] = "PM2.5"; ObjectID = "vvS-Hl-hhe"; */
+"vvS-Hl-hhe.segmentTitles[1]" = "PM2.5";
+
+/* Class = "UISegmentedControl"; vvS-Hl-hhe.segmentTitles[2] = "O3"; ObjectID = "vvS-Hl-hhe"; */
+"vvS-Hl-hhe.segmentTitles[2]" = "O3";
